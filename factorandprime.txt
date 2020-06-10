@@ -1,0 +1,7 @@
+the factors of 10 is 
+1, 2, 5, 10 which mean the 10 is completely divided by those numbers noted that no number is divided by more than half of the number except itself.
+so we can define Factor, in mathematics, a number or algebraic expression that divides another number or expression evenly—i.e., with no remainder. 
+
+prime number are those numbe which can not be divided by anyother number except 1 and itslef . for example 
+
+2, only even prime number, 3, 5, 7, 11......
