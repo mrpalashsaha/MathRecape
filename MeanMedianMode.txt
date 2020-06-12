@@ -1,0 +1,5 @@
+Mean is the simple expression of average we just simplly add the total number and multiply with the number of item.
+median is the middle value of a list of number, if it is odd number then we just add the middle two numer and divide by two.
+mode is the most commonly used number in the list. for example 1, 3, 4, 5, 3 ,5, 3 (3) is mode number here. 
+
+
