@@ -1,0 +1,5 @@
+Place Value is simply the position of each digit in a number. 
+
+ex. 1, 748, 233, 201, 459
+Trillion < Hundrad Billion < Ten Billion < Billion < Hundrad Million < Ten Million < Million < Hundrad Thousand  < ten thousand < Thousand < Hudrads < tens <ones
+perimeter : the distance around polygon _>ploygon is a closed shape with straignt sides, example triangle, renctangle 
